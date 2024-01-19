@@ -1,4 +1,4 @@
-# GroupChat Application
+# Group Chat Application.
 
 The GroupChat application is a Java-based messaging platform that facilitates communication among multiple clients in a group setting. Designed with user-friendly interfaces using the Swing library, this application provides a seamless experience for users to engage in real-time conversations akin to WhatsApp Groups.
 Features
